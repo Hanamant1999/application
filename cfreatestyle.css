@@ -1,0 +1,43 @@
+.body {
+  background-color: white;
+}
+.div1 {
+  font-size: 20px;
+  text-align: center;
+}
+.div1 {
+  text-align: center;
+  margin-top: 100px;
+}
+table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img2 {
+  margin-left: 5px;
+}
+.form {
+  text-align: center;
+}
+.div3 {
+  margin-top: 30px;
+}
+.div3 input {
+  width: 263px;
+  padding: 8px;
+  margin: 5px;
+}
+.div3 label {
+  font-size: 20px;
+}
+.div3 button {
+  width: 282px;
+  padding-top: 7px;
+  text-align: center;
+  color: black;
+  background-color: red;
+  margin-top: 10px;
+  font-size: 17px;
+  padding-bottom: 10px;
+}
